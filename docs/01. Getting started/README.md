@@ -6,3 +6,4 @@
 - [004. Angular vs Angular 2 vs последняя Angular версия](./004.%20Angular%20vs%20Angular%202%20vs%20Latest%20Angular%20Version)
 - [005. CLI погружение и решение проблем](./005.%20CLI%20Deep%20Dive%20&%20Troubleshooting)
 - [006. Фикс ошибок в новых проектах Angular](./006.%20Fixing%20Errors%20with%20New%20Angular%20Projects)
+- [007. Настройка проекта и первое приложение](./007.%20Project%20Setup%20and%20First%20App)
