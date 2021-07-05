@@ -16,3 +16,4 @@
   - [006. Фикс ошибок в новых проектах Angular](./docs/01.%20Getting%20started/006.%20Fixing%20Errors%20with%20New%20Angular%20Projects)
   - [007. Настройка проекта и первое приложение](./docs/01.%20Getting%20started/007.%20Project%20Setup%20and%20First%20App)
   - [008. Редактируем первое приложение](./docs/01.%20Getting%20started/008.%20Editing%20the%20First%20App)
+  - [009. Структура курса](./docs/01.%20Getting%20started/009.%20The%20Course%20Structure)

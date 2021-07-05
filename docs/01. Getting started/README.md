@@ -8,3 +8,4 @@
 - [006. Фикс ошибок в новых проектах Angular](./006.%20Fixing%20Errors%20with%20New%20Angular%20Projects)
 - [007. Настройка проекта и первое приложение](./007.%20Project%20Setup%20and%20First%20App)
 - [008. Редактируем первое приложение](./008.%20Editing%20the%20First%20App)
+- [009. Структура курса](./009.%20The%20Course%20Structure)

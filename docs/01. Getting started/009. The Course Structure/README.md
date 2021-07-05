@@ -1,0 +1,24 @@
+# Структура курса
+
+- Getting Started
+- The Basics (Основы)
+- Components & Databinding
+  - Databinding - как реагировать на действия пользователя, как выводить данные в DOM 
+- Directives
+  - ngModule как пример является директивой.
+  - Построение собственных директив
+- Services & Dependency Injection
+  - Основная фишка Angular, позволяющая разбить приложение на небольшие куски
+- Routing
+- Observables
+  - Это концепт, который позволяет работать с асинхронным кодом.
+- Forms
+- Pipes
+  - Трансформирует выходные данные (которые вы отображаете в темплейте)
+- Http
+  - Как работать с сервером
+- Authentication
+- Optimizations & NgModules
+  - Как работать с разными модулями в приложении
+- Deployment
+- Animations & Testing
