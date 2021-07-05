@@ -19,3 +19,4 @@
   - [009. Структура курса](./docs/01.%20Getting%20started/009.%20The%20Course%20Structure)
   - [010. Как получить от курса как можно больше](./docs/01.%20Getting%20started/010.%20How%20to%20get%20the%20Most%20out%20of%20the%20Course)
   - [011. Что такое TypeScript](./docs/01.%20Getting%20started/011.%20What%20is%20TypeScript)
+  - [012. Необязательное быстрое введение в TypeScript](./docs/01.%20Getting%20started/012.%20Optional%20TypeScript%20Quick%20Introduction)
