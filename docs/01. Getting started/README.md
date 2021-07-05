@@ -13,3 +13,4 @@
 - [011. Что такое TypeScript](./011.%20What%20is%20TypeScript)
 - [012. Необязательное быстрое введение в TypeScript](./012.%20Optional%20TypeScript%20Quick%20Introduction)
 - [013. Базовая настройка проекта с использованием Bootstrap для стилизации](./013.%20A%20Basic%20Project%20Setup%20using%20Bootstrap%20for%20Styling)
+- [014. Шаблон проекта](./014.%20Project%20Template)
