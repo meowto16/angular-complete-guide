@@ -22,3 +22,5 @@
   - [012. Необязательное быстрое введение в TypeScript](./docs/01.%20Getting%20started/012.%20Optional%20TypeScript%20Quick%20Introduction)
   - [013. Базовая настройка проекта с использованием Bootstrap для стилизации](./docs/01.%20Getting%20started/013.%20A%20Basic%20Project%20Setup%20using%20Bootstrap%20for%20Styling)
   - [014. Шаблон проекта](./docs/01.%20Getting%20started/014.%20Project%20Template)
+- [02. Основы](./docs/02.%20The%20Basics)
+  - [015. Введение в секцию](./docs/02.%20The%20Basics/015.%20Module%20Introduction)
