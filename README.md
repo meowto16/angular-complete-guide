@@ -26,3 +26,4 @@
   - [015. Введение в секцию](./docs/02.%20The%20Basics/015.%20Module%20Introduction)
   - [016. Как приложение Angular загружается и стартует](./docs/02.%20The%20Basics/016.%20How%20an%20Angular%20App%20gets%20Loaded%20and%20Started)
   - [017. Компоненты важны!](./docs/02.%20The%20Basics/017.%20Components%20are%20Important!)
+  - [018. Создаем новый компонент](./docs/02.%20The%20Basics/018.%20Creating%20a%20New%20Component)
