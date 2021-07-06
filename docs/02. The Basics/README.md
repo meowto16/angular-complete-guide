@@ -9,3 +9,4 @@
 - [021. Создаем компоненты при помощи CLI и вкладываем компоненты друг в друга](./021.%20Creating%20Components%20with%20the%20CLI%20&%20Nesting%20Components)
 - [022. Работа с шаблонами компонентов](./022.%20Working%20with%20Component%20Templates)
 - [023. Работа со стилями компонента](./023.%20Working%20with%20Component%20Styles)
+- [024. Полностью понимаем Component Selector](./024.%20Fully%20Understanding%20the%20Component%20Selector)
