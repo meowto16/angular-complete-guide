@@ -29,3 +29,4 @@
   - [018. Создаем новый компонент](./docs/02.%20The%20Basics/018.%20Creating%20a%20New%20Component)
   - [019. Разбираемся с ролью AppModule и Component Declaration](./docs/02.%20The%20Basics/019.%20Understanding%20the%20Role%20of%20AppModule%20and%20Component%20Declaration)
   - [020. Используем собственные компоненты](./docs/02.%20The%20Basics/020.%20Using%20Custom%20Components)
+  - [021. Создаем компоненты при помощи CLI и вкладываем компоненты друг в друга](./docs/02.%20The%20Basics/021.%20Creating%20Components%20with%20the%20CLI%20&%20Nesting%20Components)
