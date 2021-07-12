@@ -13,3 +13,4 @@
 - [025. Практика. Компоненты](./025.%20Practicing%20Components)
 - [026. Что такое Databinding](./026.%20What%20is%20Databinding)
 - [027. Интерполяция строк](./027.%20String%20Interpolation)
+- [028. Property binding](./028.%20Property%20Binding)

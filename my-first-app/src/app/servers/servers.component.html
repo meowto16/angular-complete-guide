@@ -1,5 +1,15 @@
-<div class="list-group">
-  <app-server></app-server>
-  <app-server></app-server>
-  <app-server></app-server>
+<div class="row">
+  <div class="col-xs-12">
+    <div class="mb-3">
+      <button class="btn btn-primary" [disabled]="!allowNewServer">Add server</button>
+    </div>
+  </div>
+  <div class="col-xs-12">
+    <div class="list-group">
+      <app-server></app-server>
+      <app-server></app-server>
+      <app-server></app-server>
+    </div>
+  </div>
 </div>
+
