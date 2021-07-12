@@ -17,3 +17,4 @@
 - [029. Property binding против интерполяции строк](./029.%20Property%20binding%20vs%20String%20Interpolation)
 - [030. Event binding](./030.%20Event%20Binding)
 - [031. Связываемые свойства и события](./031.%20Bindable%20Properties%20and%20Events)
+- [032. Пробрасываем и используем данные с Event Binding](./032.%20Passing%20and%20Using%20Data%20with%20Event%20Binding)

@@ -40,3 +40,4 @@
   - [029. Property binding против интерполяции строк](./docs/02.%20The%20Basics/029.%20Property%20binding%20vs%20String%20Interpolation)
   - [030. Event binding](./docs/02.%20The%20Basics/030.%20Event%20Binding)
   - [031. Связываемые свойства и события](./docs/02.%20The%20Basics/031.%20Bindable%20Properties%20and%20Events)
+  - [032. Пробрасываем и используем данные с Event Binding](./docs/02.%20The%20Basics/032.%20Passing%20and%20Using%20Data%20with%20Event%20Binding)
