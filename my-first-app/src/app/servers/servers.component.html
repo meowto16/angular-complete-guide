@@ -1,6 +1,10 @@
 <div class="row">
   <div class="col-xs-12">
-    <div class="mb-3">
+    <div class="my-3">
+      <input type="text" class="form-control" [(ngModel)]="serverName">
+      <p>{{ serverName }}</p>
+    </div>
+    <div class="my-3">
       <button
         class="btn btn-primary"
         [disabled]="!allowNewServer"
@@ -16,6 +20,20 @@
       <app-server></app-server>
       <app-server></app-server>
       <app-server></app-server>
+    </div>
+  </div>
+
+  <div class="col-xs-12 col-md-6">
+    <div class="my-2">
+      <form (submit)="onSubmitUser()">
+        <div class="form-group">
+          <label for="username">User name</label>
+          <input type="email" class="form-control" id="username" name="username" [(ngModel)]="userName">
+          <p class="mt-2">Your username is: {{ userName }}</p>
+        </div>
+
+        <button [disabled]="userName === ''" class="btn btn-success" type="submit">Save</button>
+      </form>
     </div>
   </div>
 </div>
