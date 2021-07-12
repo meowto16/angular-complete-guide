@@ -41,3 +41,4 @@
   - [030. Event binding](./docs/02.%20The%20Basics/030.%20Event%20Binding)
   - [031. Связываемые свойства и события](./docs/02.%20The%20Basics/031.%20Bindable%20Properties%20and%20Events)
   - [032. Пробрасываем и используем данные с Event Binding](./docs/02.%20The%20Basics/032.%20Passing%20and%20Using%20Data%20with%20Event%20Binding)
+  - [033. Важно. FormsModule необходим для Two-Way Binding](./docs/02.%20The%20Basics/033.%20Important%20FormsModule%20is%20required%20for%20Two-Way%20Binding)
