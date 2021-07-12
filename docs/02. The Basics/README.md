@@ -11,3 +11,4 @@
 - [023. Работа со стилями компонента](./023.%20Working%20with%20Component%20Styles)
 - [024. Полностью понимаем Component Selector](./024.%20Fully%20Understanding%20the%20Component%20Selector)
 - [025. Практика. Компоненты](./025.%20Practicing%20Components)
+- [026. Что такое Databinding](./026.%20What%20is%20Databinding)
