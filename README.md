@@ -35,3 +35,4 @@
   - [024. Полностью понимаем Component Selector](./docs/02.%20The%20Basics/024.%20Fully%20Understanding%20the%20Component%20Selector)
   - [025. Практика. Компоненты](./docs/02.%20The%20Basics/025.%20Practicing%20Components)
   - [026. Что такое Databinding](./docs/02.%20The%20Basics/026.%20What%20is%20Databinding)
+  - [027. 027. Интерполяция строк](./docs/02.%20The%20Basics/027.%20String%20Interpolation)

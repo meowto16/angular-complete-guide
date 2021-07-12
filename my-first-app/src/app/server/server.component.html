@@ -1,0 +1,8 @@
+<div
+  class="list-group-item"
+  [class.list-group-item-danger]="serverStatus === 'offline'"
+  [class.list-group-item-success]="serverStatus === 'active'"
+  [class.list-group-item-info]="serverStatus === 'loading'"
+>
+  Server with ID {{ serverId }} is {{ getServerStatus() }}
+</div>
