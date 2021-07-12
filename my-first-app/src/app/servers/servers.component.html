@@ -1,9 +1,8 @@
 <div class="row">
   <div class="col-xs-12">
     <div class="my-3">
-      <label>Server Name</label>
-      <input type="text" class="form-control" (input)="onUpdateServerName($event)">
-      <p class="my-2">{{ serverName }}</p>
+      <input type="text" class="form-control" [(ngModel)]="serverName">
+      <p>{{ serverName }}</p>
     </div>
     <div class="my-3">
       <button
