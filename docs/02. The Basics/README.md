@@ -20,3 +20,4 @@
 - [032. Пробрасываем и используем данные с Event Binding](./032.%20Passing%20and%20Using%20Data%20with%20Event%20Binding)
 - [033. Важно. FormsModule необходим для Two-Way Binding](./033.%20Important%20FormsModule%20is%20required%20for%20Two-Way%20Binding)
 - [034. Двухстороннее связывание данных](./034.%20Two-Way%20Databinding)
+- [035. Комбинируем все способы связывания данных](./035.%20Combining%20all%20Forms%20of%20Databinding)
