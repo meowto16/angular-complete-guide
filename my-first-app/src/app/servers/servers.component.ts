@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit } from '@angular/core'
 
 @Component({
   selector: 'app-servers',
@@ -15,6 +15,6 @@ export class ServersComponent implements OnInit {
   }
 
   ngOnInit(): void {
-  }
 
+  }
 }

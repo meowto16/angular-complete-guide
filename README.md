@@ -37,3 +37,4 @@
   - [026. Что такое Databinding](./docs/02.%20The%20Basics/026.%20What%20is%20Databinding)
   - [027. Интерполяция строк](./docs/02.%20The%20Basics/027.%20String%20Interpolation)
   - [028. Property binding](./docs/02.%20The%20Basics/028.%20Property%20Binding)
+  - [029. Property binding против интерполяции строк](./docs/02.%20The%20Basics/029.%20Property%20binding%20vs%20String%20Interpolation)
