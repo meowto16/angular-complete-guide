@@ -12,7 +12,10 @@
       >
         Add server
       </button>
-      <p class="my-2" *ngIf="serverCreated">Server was created, server name is {{ serverName }}</p>
+      <p class="my-2" *ngIf="serverCreated; else noServer">Server was created, server name is {{ serverName }}</p>
+      <ng-template class="my-2" #noServer>
+        <p class="my-2">No server was created!</p>
+      </ng-template>
     </div>
   </div>
   <div class="col-xs-12">

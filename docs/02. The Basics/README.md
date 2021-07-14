@@ -24,3 +24,4 @@
 - [036. Практика. Связывание данных](./036.%20Practicing%20Databinding)
 - [037. Изучаем директивы](./037.%20Understanding%20Directives)
 - [038. Используем ngIf чтобы выводить данные по условию](./038.%20Using%20ngIf%20to%20Output%20Data%20Conditionally)
+- [039. Улучшаем ngIf с Else условием](./039.%20Enhancing%20ngIf%20with%20an%20Else%20Condition)
