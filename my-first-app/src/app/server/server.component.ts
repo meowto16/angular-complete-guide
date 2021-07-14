@@ -25,4 +25,13 @@ export class ServerComponent {
   public getServerStatus() {
     return this.serverStatus.toUpperCase();
   }
+
+  public getColor() {
+    switch (this.serverStatus) {
+      case 'offline': return 'darksalmon'
+      case 'active': return 'darkseagreen'
+      case 'loading': return 'dodgerblue'
+      default: return 'black'
+    }
+  }
 }
