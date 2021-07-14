@@ -49,3 +49,4 @@
   - [038. Используем ngIf чтобы выводить данные по условию](./docs/02.%20The%20Basics/038.%20Using%20ngIf%20to%20Output%20Data%20Conditionally)
   - [039. Улучшаем ngIf с Else условием](./docs/02.%20The%20Basics/039.%20Enhancing%20ngIf%20with%20an%20Else%20Condition)
   - [040. Стилизуем элементы динамически с помощью ngStyle](./docs/02.%20The%20Basics/040.%20Styling%20Elements%20Dynamically%20with%20ngStyle)
+  - [041. Добавляем CSS классы динамически, используя ngClass](./docs/02.%20The%20Basics/041.%20Applying%20CSS%20Classes%20Dynamically%20with%20ngClass)
