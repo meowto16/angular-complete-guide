@@ -9,12 +9,13 @@ export class ServersComponent implements OnInit {
   allowNewServer = false;
   serverCreationStatus: string = 'No server was created!';
   serverName = 'Testserver';
-  userName = '';
   serverCreated = false;
+  isDisplayDetails = false;
   servers = [
     'Testserver',
     'Testserver 2'
   ]
+  displayDetailsLogs: string[] = []
 
   constructor() {
     setTimeout(() => {
@@ -32,7 +33,8 @@ export class ServersComponent implements OnInit {
     this.serverCreated = true;
   }
 
-  onSubmitUser(): void {
-    this.userName = '';
+  onDisplayDetails() {
+    this.isDisplayDetails = !this.isDisplayDetails
+    this.displayDetailsLogs.push(new Date().toISOString())
   }
 }
