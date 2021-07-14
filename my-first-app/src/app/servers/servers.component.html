@@ -12,7 +12,7 @@
       >
         Add server
       </button>
-      <p class="my-2">{{ serverCreationStatus }}</p>
+      <p class="my-2" *ngIf="serverCreated">Server was created, server name is {{ serverName }}</p>
     </div>
   </div>
   <div class="col-xs-12">

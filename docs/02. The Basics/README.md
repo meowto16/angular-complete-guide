@@ -23,3 +23,4 @@
 - [035. Комбинируем все способы связывания данных](./035.%20Combining%20all%20Forms%20of%20Databinding)
 - [036. Практика. Связывание данных](./036.%20Practicing%20Databinding)
 - [037. Изучаем директивы](./037.%20Understanding%20Directives)
+- [038. Используем ngIf чтобы выводить данные по условию](./038.%20Using%20ngIf%20to%20Output%20Data%20Conditionally)
