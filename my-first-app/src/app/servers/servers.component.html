@@ -12,29 +12,30 @@
       >
         Add server
       </button>
-      <p class="my-2">{{ serverCreationStatus }}</p>
+      <p class="my-2" *ngIf="serverCreated; else noServer">Server was created, server name is {{ serverName }}</p>
+      <ng-template class="my-2" #noServer>
+        <p class="my-2">No server was created!</p>
+      </ng-template>
     </div>
   </div>
   <div class="col-xs-12">
     <div class="list-group">
-      <app-server></app-server>
-      <app-server></app-server>
-      <app-server></app-server>
-    </div>
-  </div>
-
-  <div class="col-xs-12 col-md-6">
-    <div class="my-2">
-      <form (submit)="onSubmitUser()">
-        <div class="form-group">
-          <label for="username">User name</label>
-          <input type="email" class="form-control" id="username" name="username" [(ngModel)]="userName">
-          <p class="mt-2">Your username is: {{ userName }}</p>
-        </div>
-
-        <button [disabled]="userName === ''" class="btn btn-success" type="submit">Save</button>
-      </form>
+      <app-server *ngFor="let server of servers"></app-server>
     </div>
   </div>
 </div>
+
+<section class="my-5">
+  <h2>Practicing Directives</h2>
+  <button class="btn btn-primary" (click)="onDisplayDetails()">Display Details</button>
+  <p *ngIf="isDisplayDetails">Secret Password = tuna</p>
+  <ul class="list-group-item my-3" *ngIf="displayDetailsLogs.length > 0">
+    <li class="list-group-item"
+        *ngFor="let log of displayDetailsLogs; let i = index"
+        [style.backgroundColor]="i >= 5 && 'blue'"
+        [class.text-white]="i >= 5">
+      {{ log }}
+    </li>
+  </ul>
+</section>
 
