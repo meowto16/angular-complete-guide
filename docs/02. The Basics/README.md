@@ -28,3 +28,4 @@
 - [040. Стилизуем элементы динамически с помощью ngStyle](./040.%20Styling%20Elements%20Dynamically%20with%20ngStyle)
 - [041. Добавляем CSS классы динамически, используя ngClass](./041.%20Applying%20CSS%20Classes%20Dynamically%20with%20ngClass)
 - [042. Выводим списки при помощи ngFor](./042.%20Outputting%20Lists%20with%20ngFor)
+- [043. Практика. Директивы](./043.%20Practicing%20Directives)
