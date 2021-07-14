@@ -52,3 +52,4 @@
   - [041. Добавляем CSS классы динамически, используя ngClass](./docs/02.%20The%20Basics/041.%20Applying%20CSS%20Classes%20Dynamically%20with%20ngClass)
   - [042. Выводим списки при помощи ngFor](./docs/02.%20The%20Basics/042.%20Outputting%20Lists%20with%20ngFor)
   - [043. Практика. Директивы](./docs/02.%20The%20Basics/043.%20Practicing%20Directives)
+  - [044. Получаем индекс когда используем ngFor](./docs/02.%20The%20Basics/044.%20Getting%20the%20Index%20when%20using%20ngFor)
