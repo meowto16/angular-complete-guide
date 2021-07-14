@@ -20,9 +20,7 @@
   </div>
   <div class="col-xs-12">
     <div class="list-group">
-      <app-server></app-server>
-      <app-server></app-server>
-      <app-server></app-server>
+      <app-server *ngFor="let server of servers"></app-server>
     </div>
   </div>
 
