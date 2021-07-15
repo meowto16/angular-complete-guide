@@ -1,3 +1,8 @@
+# Отображаем детальный рецепт
+
+Просто пока сверстали шаблон для `recipe-detail`:
+
+```angular2html
 <div class="row">
   <div class="col-xs-12">
     <img src="https://www.mariaushakova.com/wp-content/uploads/2020/07/Okroshka-740-735x735.jpg" alt="Okroshka" class="img-responsive img-circle" style="max-height: 200px;">
@@ -36,3 +41,4 @@
     Ingredients
   </div>
 </div>
+```

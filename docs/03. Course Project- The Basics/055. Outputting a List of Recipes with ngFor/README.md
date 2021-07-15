@@ -1,9 +1,8 @@
-<div class="row">
-  <div class="col-xs-12">
-    <button class="btn btn-success">New Recipe</button>
-  </div>
-</div>
-<hr>
+# Выводим список рецептов с ngFor
+
+Выводим список рецептов при помощи ngFor:
+
+```angular2html
 <div class="row">
   <div class="col-xs-12">
     <a href="#" class="list-group-item clearfix" *ngFor="let recipe of recipes;">
@@ -18,3 +17,14 @@
     <app-recipe-item></app-recipe-item>
   </div>
 </div>
+```
+
+Можно делать так (бинд аттрибутов):
+```angular2html
+<img class="img-responsive" [src]="recipe.imagePath" [alt]="recipe.name" style="max-height: 50px;">
+```
+
+А можно так (интерполяция строк):
+```angular2html
+<img class="img-responsive" src="{{ recipe.imagePath }}" alt="{{ recipe.name }}" style="max-height: 50px;">
+```
