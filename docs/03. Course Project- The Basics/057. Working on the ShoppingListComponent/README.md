@@ -1,3 +1,7 @@
+# Работаем над ShoppingListComponent
+
+Пока просто добавили верстку
+```angular2html
 <div class="row">
   <div class="col-xs-10">
     <app-shopping-list-edit></app-shopping-list-edit>
@@ -9,3 +13,9 @@
     </ul>
   </div>
 </div>
+```
+
+и массив ingredients
+```ts
+ingredients = [];
+```
