@@ -11,3 +11,4 @@
 - [053. Создаем модель Recipe](./053.%20Creating%20a%20Recipe%20Model)
 - [054. Добавляем контент к компонентам Recipes](./054.%20Adding%20Content%20to%20the%20Recipes%20Component)
 - [055. Выводим список рецептов с ngFor](./055.%20Outputting%20a%20List%20of%20Recipes%20with%20ngFor)
+- [056. Отображаем детальный рецепт](./056.%20Displaying%20Recipe%20Details)

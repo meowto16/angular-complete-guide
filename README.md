@@ -65,3 +65,4 @@
   - [053. Создаем модель Recipe](./docs/03.%20Course%20Project-%20The%20Basics/053.%20Creating%20a%20Recipe%20Model)
   - [054. Добавляем контент к компонентам Recipes](./docs/03.%20Course%20Project-%20The%20Basics/054.%20Adding%20Content%20to%20the%20Recipes%20Component)
   - [055. Выводим список рецептов с ngFor](./docs/03.%20Course%20Project-%20The%20Basics/055.%20Outputting%20a%20List%20of%20Recipes%20with%20ngFor)
+  - [056. Отображаем детальный рецепт](./docs/03.%20Course%20Project-%20The%20Basics/056.%20Displaying%20Recipe%20Details)
