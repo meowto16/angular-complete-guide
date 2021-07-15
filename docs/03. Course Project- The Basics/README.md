@@ -13,3 +13,4 @@
 - [055. Выводим список рецептов с ngFor](./055.%20Outputting%20a%20List%20of%20Recipes%20with%20ngFor)
 - [056. Отображаем детальный рецепт](./056.%20Displaying%20Recipe%20Details)
 - [057. Работаем над ShoppingListComponent](./057.%20Working%20on%20the%20ShoppingListComponent)
+- [058. Создаем модель Ingredient](./058.%20Creating%20an%20Ingredient%20Model)
