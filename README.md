@@ -60,3 +60,4 @@
   - [048. Настраиваем приложение](./docs/03.%20Course%20Project-%20The%20Basics/048.%20Setting%20up%20the%20Application)
   - [049. Создаем компоненты](./docs/03.%20Course%20Project-%20The%20Basics/049.%20Creating%20Components)
   - [050. Используем компоненты](./docs/03.%20Course%20Project-%20The%20Basics/050.%20Using%20the%20Components)
+  - [051. Добавляем навигацию](./docs/03.%20Course%20Project-%20The%20Basics/051.%20Adding%20a%20Navigation%20Bar)

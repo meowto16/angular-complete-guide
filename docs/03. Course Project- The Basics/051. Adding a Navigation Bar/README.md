@@ -1,3 +1,8 @@
+# Добавляем навигацию
+
+Добавляем разметку для `header.component.html`
+
+```html
 <nav class="navbar navbar-default">
   <div class="container-fluid">
     <div class="navbar-header">
@@ -20,3 +25,6 @@
     </div>
   </div>
 </nav>
+```
+
+`dropdown` пока не работает, так как мы не добавили никакого js-кода
