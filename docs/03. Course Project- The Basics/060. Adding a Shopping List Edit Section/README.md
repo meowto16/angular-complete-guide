@@ -1,3 +1,8 @@
+# Добавляем секцию редактирования для Shopping List
+
+Добавили верстку для `shopping-list-edit.component.html`
+
+```angular2html
 <div class="row">
   <div class="col-xs-12">
     <form>
@@ -23,3 +28,4 @@
     </form>
   </div>
 </div>
+```
