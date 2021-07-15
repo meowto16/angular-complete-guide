@@ -55,3 +55,4 @@
   - [044. Получаем индекс когда используем ngFor](./docs/02.%20The%20Basics/044.%20Getting%20the%20Index%20when%20using%20ngFor)
 - [03. Курсовой проект. Основы](./docs/03.%20Course%20Project-%20The%20Basics)
   - [045. Введение в проект](./docs/03.%20Course%20Project-%20The%20Basics/045.%20Project%20Introduction)
+  - [046. Планируем приложение](./docs/03.%20Course%20Project-%20The%20Basics/046.%20Planning%20the%20App)
