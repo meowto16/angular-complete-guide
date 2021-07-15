@@ -8,3 +8,4 @@
 - [050. Используем компоненты](./050.%20Using%20the%20Components)
 - [051. Добавляем навигацию](./051.%20Adding%20a%20Navigation%20Bar)
 - [052. Альтернативная нераскрывающаяся панель навигации](./052.%20Alternative%20Non-Collapsable%20Navigation%20Bar)
+- [053. Создаем модель Recipe](./053.%20Creating%20a%20Recipe%20Model)
