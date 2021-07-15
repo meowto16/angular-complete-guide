@@ -56,3 +56,4 @@
 - [03. Курсовой проект. Основы](./docs/03.%20Course%20Project-%20The%20Basics)
   - [045. Введение в проект](./docs/03.%20Course%20Project-%20The%20Basics/045.%20Project%20Introduction)
   - [046. Планируем приложение](./docs/03.%20Course%20Project-%20The%20Basics/046.%20Planning%20the%20App)
+  - [047. Устанавливаем Bootstrap правильно](./docs/03.%20Course%20Project-%20The%20Basics/047.%20Installing%20Bootstrap%20Correctly)
