@@ -7,3 +7,4 @@
 - [049. Создаем компоненты](./049.%20Creating%20Components)
 - [050. Используем компоненты](./050.%20Using%20the%20Components)
 - [051. Добавляем навигацию](./051.%20Adding%20a%20Navigation%20Bar)
+- [052. Альтернативная нераскрывающаяся панель навигации](./052.%20Alternative%20Non-Collapsable%20Navigation%20Bar)

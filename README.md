@@ -61,3 +61,4 @@
   - [049. Создаем компоненты](./docs/03.%20Course%20Project-%20The%20Basics/049.%20Creating%20Components)
   - [050. Используем компоненты](./docs/03.%20Course%20Project-%20The%20Basics/050.%20Using%20the%20Components)
   - [051. Добавляем навигацию](./docs/03.%20Course%20Project-%20The%20Basics/051.%20Adding%20a%20Navigation%20Bar)
+  - [052. Альтернативная нераскрывающаяся панель навигации](./docs/03.%20Course%20Project-%20The%20Basics/052.%20Alternative%20Non-Collapsable%20Navigation%20Bar)
