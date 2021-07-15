@@ -16,3 +16,4 @@
 - [058. Создаем модель Ingredient](./058.%20Creating%20an%20Ingredient%20Model)
 - [059. Создаем и выводим Shopping List](./059.%20Creating%20and%20Outputting%20the%20Shopping%20List)
 - [060. Добавляем секцию редактирования для Shopping List](./060.%20Adding%20a%20Shopping%20List%20Edit%20Section)
+- [061. Резюме и следующие шаги](./061.%20Wrap%20Up%20&%20Next%20Steps)

@@ -70,3 +70,4 @@
   - [058. Создаем модель Ingredient](./docs/03.%20Course%20Project-%20The%20Basics/058.%20Creating%20an%20Ingredient%20Model)
   - [059. Создаем и выводим Shopping List](./docs/03.%20Course%20Project-%20The%20Basics/059.%20Creating%20and%20Outputting%20the%20Shopping%20List)
   - [060. Добавляем секцию редактирования для Shopping List](./docs/03.%20Course%20Project-%20The%20Basics/060.%20Adding%20a%20Shopping%20List%20Edit%20Section)
+  - [061. Резюме и следующие шаги](./docs/03.%20Course%20Project-%20The%20Basics/061.%20Wrap%20Up%20&%20Next%20Steps)
