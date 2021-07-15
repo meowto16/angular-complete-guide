@@ -59,3 +59,4 @@
   - [047. Устанавливаем Bootstrap правильно](./docs/03.%20Course%20Project-%20The%20Basics/047.%20Installing%20Bootstrap%20Correctly)
   - [048. Настраиваем приложение](./docs/03.%20Course%20Project-%20The%20Basics/048.%20Setting%20up%20the%20Application)
   - [049. Создаем компоненты](./docs/03.%20Course%20Project-%20The%20Basics/049.%20Creating%20Components)
+  - [050. Используем компоненты](./docs/03.%20Course%20Project-%20The%20Basics/050.%20Using%20the%20Components)
