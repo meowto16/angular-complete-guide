@@ -68,3 +68,4 @@
   - [056. Отображаем детальный рецепт](./docs/03.%20Course%20Project-%20The%20Basics/056.%20Displaying%20Recipe%20Details)
   - [057. Работаем над ShoppingListComponent](./docs/03.%20Course%20Project-%20The%20Basics/057.%20Working%20on%20the%20ShoppingListComponent)
   - [058. Создаем модель Ingredient](./docs/03.%20Course%20Project-%20The%20Basics/058.%20Creating%20an%20Ingredient%20Model)
+  - [059. Создаем и выводим Shopping List](./docs/03.%20Course%20Project-%20The%20Basics/059.%20Creating%20and%20Outputting%20the%20Shopping%20List)
