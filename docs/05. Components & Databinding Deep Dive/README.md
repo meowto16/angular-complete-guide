@@ -4,3 +4,4 @@
 - [065. Разбиваем приложение на компоненты](./065.%20Splitting%20Apps%20into%20Components)
 - [066. Привязка свойств и событий](./066.%20Property%20&%20Event%20Binding%20Overview)
 - [067. Привязываемся к кастомным свойствам](./067.%20Binding%20to%20Custom%20Properties)
+- [068. Задаем алиас для кастомных свойств](./068.%20Assigning%20an%20Alias%20to%20Custom%20Properties)
