@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { ServerElement } from './server-element/server-element.model'
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  serverElements = [];
+  serverElements: ServerElement[] = [
+    new ServerElement('server', 'Test server', 'Just a test server!'),
+    new ServerElement('blueprint', 'Test blueprint', 'Just a test blueprint!'),
+  ];
 }

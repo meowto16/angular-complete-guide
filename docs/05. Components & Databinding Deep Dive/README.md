@@ -3,3 +3,4 @@
 - [064. Введение в модуль](./064.%20Module%20Introduction)
 - [065. Разбиваем приложение на компоненты](./065.%20Splitting%20Apps%20into%20Components)
 - [066. Привязка свойств и событий](./066.%20Property%20&%20Event%20Binding%20Overview)
+- [067. Привязываемся к кастомным свойствам](./067.%20Binding%20to%20Custom%20Properties)
