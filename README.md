@@ -71,3 +71,6 @@
   - [059. Создаем и выводим Shopping List](./docs/03.%20Course%20Project-%20The%20Basics/059.%20Creating%20and%20Outputting%20the%20Shopping%20List)
   - [060. Добавляем секцию редактирования для Shopping List](./docs/03.%20Course%20Project-%20The%20Basics/060.%20Adding%20a%20Shopping%20List%20Edit%20Section)
   - [061. Резюме и следующие шаги](./docs/03.%20Course%20Project-%20The%20Basics/061.%20Wrap%20Up%20&%20Next%20Steps)
+- [04. Отладка](./docs/04.%20Debugging)
+  - [062. Понимание сообщений об ошибке Angular](./docs/04.%20Debugging/062.%20Understanding%20Angular%20Error%20Messages)
+  - [063. Отладка кода в браузере, используя sourcemaps](./docs/04.%20Debugging/063.%20Debugging%20Code%20in%20the%20Browser%20Using%20Sourcemaps)
