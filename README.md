@@ -74,3 +74,5 @@
 - [04. Отладка](./docs/04.%20Debugging)
   - [062. Понимание сообщений об ошибке Angular](./docs/04.%20Debugging/062.%20Understanding%20Angular%20Error%20Messages)
   - [063. Отладка кода в браузере, используя sourcemaps](./docs/04.%20Debugging/063.%20Debugging%20Code%20in%20the%20Browser%20Using%20Sourcemaps)
+- [05. Компоненты и привязка данных, глубокое погружение](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive)
+  - [064. Введение в модуль](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/064.%20Module%20Introduction)
