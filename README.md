@@ -80,3 +80,4 @@
   - [066. Привязка свойств и событий](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/066.%20Property%20&%20Event%20Binding%20Overview)
   - [067. Привязываемся к кастомным свойствам](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/067.%20Binding%20to%20Custom%20Properties)
   - [068. Задаем алиас для кастомных свойств](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/068.%20Assigning%20an%20Alias%20to%20Custom%20Properties)
+  - [069. Привязка к кастомным событиям](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/069.%20Binding%20to%20Custom%20Events)

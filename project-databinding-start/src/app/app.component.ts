@@ -11,4 +11,12 @@ export class AppComponent {
     new ServerElement('server', 'Test server', 'Just a test server!'),
     new ServerElement('blueprint', 'Test blueprint', 'Just a test blueprint!'),
   ];
+
+  onServerAdded(serverData: Pick<ServerElement, 'name' | 'content'>) {
+    this.serverElements.push(new ServerElement('server', serverData.name, serverData.content))
+  }
+
+  onBlueprintAdded(blueprintData: Pick<ServerElement, 'name' | 'content'>) {
+    this.serverElements.push(new ServerElement('blueprint', blueprintData.name, blueprintData.content))
+  }
 }
