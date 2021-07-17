@@ -13,3 +13,4 @@
 - [074. Используем локальные ссылки в шаблонах](./074.%20Using%20Local%20References%20in%20Templates)
 - [075. Декоратор @ViewChild в Angular 8+](./075.%20@ViewChild%20in%20Angular%208+)
 - [076. Получаем доступ к шаблону и DOM при помощи @ViewChild](./076.%20Getting%20Access%20to%20the%20Template%20&%20DOM%20with%20@ViewChild)
+- [077. Пробрасываем контент в компонент используя ng-content](./077.%20Projecting%20Content%20into%20Component%20with%20ng-content)
