@@ -9,7 +9,7 @@ import { ServerElement } from './server-element/server-element.model'
 export class AppComponent {
   serverElements: ServerElement[] = [
     new ServerElement('server', 'Test server', 'Just a test server!'),
-    new ServerElement('blueprint', 'Test blueprint', 'Just a test blueprint!'),
+    // new ServerElement('blueprint', 'Test blueprint', 'Just a test blueprint!'),
   ];
 
   onServerAdded(serverData: Pick<ServerElement, 'name' | 'content'>) {
@@ -18,5 +18,13 @@ export class AppComponent {
 
   onBlueprintAdded(blueprintData: Pick<ServerElement, 'name' | 'content'>) {
     this.serverElements.push(new ServerElement('blueprint', blueprintData.name, blueprintData.content))
+  }
+
+  onChangeFirst() {
+    this.serverElements[0].name = 'Changed! '
+  }
+
+  onDeleteFirst() {
+    this.serverElements.splice(0, 1);
   }
 }
