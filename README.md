@@ -89,3 +89,4 @@
   - [075. Декоратор @ViewChild в Angular 8+](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/075.%20@ViewChild%20in%20Angular%208+)
   - [076. Получаем доступ к шаблону и DOM при помощи @ViewChild](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/076.%20Getting%20Access%20to%20the%20Template%20&%20DOM%20with%20@ViewChild)
   - [077. Пробрасываем контент в компонент используя ng-content](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/077.%20Projecting%20Content%20into%20Component%20with%20ng-content)
+  - [078. Разбираемся с жизненными циклами компонентов](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/078.%20Understanding%20the%20Component%20Lifecycle)
