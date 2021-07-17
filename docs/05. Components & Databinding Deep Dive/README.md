@@ -6,3 +6,4 @@
 - [067. Привязываемся к кастомным свойствам](./067.%20Binding%20to%20Custom%20Properties)
 - [068. Задаем алиас для кастомных свойств](./068.%20Assigning%20an%20Alias%20to%20Custom%20Properties)
 - [069. Привязка к кастомным событиям](./069.%20Binding%20to%20Custom%20Events)
+- [070. Задаем алиас кастомным событиям](./070.%20Assigning%20an%20Alias%20to%20Custom%20Events)

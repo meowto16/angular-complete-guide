@@ -8,7 +8,7 @@ import { ServerElement } from '../server-element/server-element.model'
 })
 export class CockpitComponent implements OnInit {
   @Output() serverCreated = new EventEmitter<Pick<ServerElement, 'name' | 'content'>>();
-  @Output() blueprintCreated = new EventEmitter<Pick<ServerElement, 'name' | 'content'>>();
+  @Output('bpCreated') blueprintCreated = new EventEmitter<Pick<ServerElement, 'name' | 'content'>>();
 
   constructor() { }
 
