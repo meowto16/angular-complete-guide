@@ -11,3 +11,4 @@
 - [072. Разбираемся с View Encapsulation](./072.%20Understanding%20View%20Encapsulation)
 - [073. Еще о View Encapsulation](./073.%20More%20on%20View%20Encapsulation)
 - [074. Используем локальные ссылки в шаблонах](./074.%20Using%20Local%20References%20in%20Templates)
+- [075. Декоратор @ViewChild в Angular 8+](./075.%20@ViewChild%20in%20Angular%208+)

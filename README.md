@@ -86,3 +86,4 @@
   - [072. Разбираемся с View Encapsulation](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/072.%20Understanding%20View%20Encapsulation)
   - [073. Еще о View Encapsulation](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/073.%20More%20on%20View%20Encapsulation)
   - [074. Используем локальные ссылки в шаблонах](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/074.%20Using%20Local%20References%20in%20Templates)
+  - [075. Декоратор @ViewChild в Angular 8+](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/075.%20@ViewChild%20in%20Angular%208+)
