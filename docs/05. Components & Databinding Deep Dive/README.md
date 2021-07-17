@@ -15,3 +15,4 @@
 - [076. Получаем доступ к шаблону и DOM при помощи @ViewChild](./076.%20Getting%20Access%20to%20the%20Template%20&%20DOM%20with%20@ViewChild)
 - [077. Пробрасываем контент в компонент используя ng-content](./077.%20Projecting%20Content%20into%20Component%20with%20ng-content)
 - [078. Разбираемся с жизненными циклами компонентов](./078.%20Understanding%20the%20Component%20Lifecycle)
+- [079. Используем жизненные циклы на практике](./079.%20Seeing%20Lifecycle%20Hooks%20in%20Action)
