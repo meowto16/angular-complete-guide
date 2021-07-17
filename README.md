@@ -85,3 +85,4 @@
   - [071. Привязка кастомных свойств и событий. Резюме](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/071.%20Custom%20Property%20and%20Event%20Binding%20Summary)
   - [072. Разбираемся с View Encapsulation](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/072.%20Understanding%20View%20Encapsulation)
   - [073. Еще о View Encapsulation](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/073.%20More%20on%20View%20Encapsulation)
+  - [074. Используем локальные ссылки в шаблонах](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/074.%20Using%20Local%20References%20in%20Templates)
