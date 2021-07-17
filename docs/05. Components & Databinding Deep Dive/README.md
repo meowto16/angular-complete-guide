@@ -9,3 +9,4 @@
 - [070. Задаем алиас кастомным событиям](./070.%20Assigning%20an%20Alias%20to%20Custom%20Events)
 - [071. Привязка кастомных свойств и событий. Резюме](./071.%20Custom%20Property%20and%20Event%20Binding%20Summary)
 - [072. Разбираемся с View Encapsulation](./072.%20Understanding%20View%20Encapsulation)
+- [073. Еще о View Encapsulation](./073.%20More%20on%20View%20Encapsulation)
