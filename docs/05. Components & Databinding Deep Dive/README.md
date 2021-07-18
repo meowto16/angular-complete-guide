@@ -17,3 +17,4 @@
 - [078. Разбираемся с жизненными циклами компонентов](./078.%20Understanding%20the%20Component%20Lifecycle)
 - [079. Используем жизненные циклы на практике](./079.%20Seeing%20Lifecycle%20Hooks%20in%20Action)
 - [080. Жизненный цикл и доступ к шаблону](./080.%20Lifecycle%20Hooks%20and%20Template%20Access)
+- [081. @ContentChild() в Angular 8+](./081.%20@ContentChild()%20in%20Angular%208+)
