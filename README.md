@@ -93,3 +93,4 @@
   - [079. Используем жизненные циклы на практике](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/079.%20Seeing%20Lifecycle%20Hooks%20in%20Action)
   - [080. Жизненный цикл и доступ к шаблону](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/080.%20Lifecycle%20Hooks%20and%20Template%20Access)
   - [081. @ContentChild() в Angular 8+](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/081.%20@ContentChild()%20in%20Angular%208+)
+  - [082. Получаем доступ к ng-content с @ContentChild](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/082.%20Getting%20Access%20to%20ng-content%20with%20@ContentChild)
