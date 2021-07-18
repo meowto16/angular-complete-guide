@@ -20,3 +20,4 @@
 - [081. @ContentChild() в Angular 8+](./081.%20@ContentChild()%20in%20Angular%208+)
 - [082. Получаем доступ к ng-content с @ContentChild](./082.%20Getting%20Access%20to%20ng-content%20with%20@ContentChild)
 - [083. Резюме. Погружение в компоненты и связывание данных](./083.%20Wrap%20Up)
+- [084. Практика. Погружение в компоненты и связывание данных](./084.%20Practicing%20Property%20&%20Event%20Binding%20and%20View%20Encapsulation)
