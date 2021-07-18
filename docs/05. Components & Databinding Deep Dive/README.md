@@ -19,3 +19,4 @@
 - [080. Жизненный цикл и доступ к шаблону](./080.%20Lifecycle%20Hooks%20and%20Template%20Access)
 - [081. @ContentChild() в Angular 8+](./081.%20@ContentChild()%20in%20Angular%208+)
 - [082. Получаем доступ к ng-content с @ContentChild](./082.%20Getting%20Access%20to%20ng-content%20with%20@ContentChild)
+- [083. Резюме. Погружение в компоненты и связывание данных](./083.%20Wrap%20Up)
