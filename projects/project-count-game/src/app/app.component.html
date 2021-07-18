@@ -1,0 +1,37 @@
+
+<div class="container">
+
+  <div class="row">
+    <div class="col-xs-6 pull-left">
+      <div class="heading-container">
+        <h1>Game "Count"</h1>
+      </div>
+    </div>
+    <div class="col-xs-6 pull-right">
+      <div class="heading-container">
+        <app-game-control (counterChanged)="onAddNumber($event)" (counterCleared)="onClearNumbers()" [timeout]="500"></app-game-control>
+      </div>
+    </div>
+  </div>
+  <hr>
+  <div class="row">
+    <div class="col-xs-6">
+      <h2 class="text-success">Odd numbers</h2>
+      <hr>
+      <ul class="list-group">
+        <app-odd *ngFor="let number of oddNumbers">
+          {{ number }}
+        </app-odd>
+      </ul>
+    </div>
+    <div class="col-xs-6">
+      <h2 class="text-danger">Even numbers</h2>
+      <hr>
+      <div class="list-group">
+        <app-even *ngFor="let number of evenNumbers">
+          {{ number }}
+        </app-even>
+      </div>
+    </div>
+  </div>
+</div>

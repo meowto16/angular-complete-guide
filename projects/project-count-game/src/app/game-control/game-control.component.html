@@ -1,0 +1,9 @@
+<div class="row">
+  <div class="col-xs-12">
+    <div class="game-control">
+      <button class="btn btn-success game-control__button" (click)="startGame()" [disabled]="isGameStarted">Start game</button>
+      <button class="btn btn-danger game-control__button" (click)="stopGame()" [disabled]="!isGameStarted">Stop game</button>
+      <button class="btn btn-primary game-control__button" (click)="clearGame()">Clear game</button>
+    </div>
+  </div>
+</div>

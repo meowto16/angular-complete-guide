@@ -1,0 +1,5 @@
+.heading-container {
+  display: flex;
+  height: 60px;
+  align-items: center;
+}

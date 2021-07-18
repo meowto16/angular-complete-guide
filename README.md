@@ -91,3 +91,8 @@
   - [077. Пробрасываем контент в компонент используя ng-content](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/077.%20Projecting%20Content%20into%20Component%20with%20ng-content)
   - [078. Разбираемся с жизненными циклами компонентов](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/078.%20Understanding%20the%20Component%20Lifecycle)
   - [079. Используем жизненные циклы на практике](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/079.%20Seeing%20Lifecycle%20Hooks%20in%20Action)
+  - [080. Жизненный цикл и доступ к шаблону](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/080.%20Lifecycle%20Hooks%20and%20Template%20Access)
+  - [081. @ContentChild() в Angular 8+](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/081.%20@ContentChild()%20in%20Angular%208+)
+  - [082. Получаем доступ к ng-content с @ContentChild](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/082.%20Getting%20Access%20to%20ng-content%20with%20@ContentChild)
+  - [083. Резюме. Погружение в компоненты и связывание данных](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/083.%20Wrap%20Up)
+  - [084. Практика. Погружение в компоненты и связывание данных](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/084.%20Practicing%20Property%20&%20Event%20Binding%20and%20View%20Encapsulation)
