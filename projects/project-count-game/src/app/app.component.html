@@ -9,7 +9,7 @@
     </div>
     <div class="col-xs-6 pull-right">
       <div class="heading-container">
-        <app-game-control (counterChanged)="onAddNumber($event)" (counterCleared)="onClearNumbers()"></app-game-control>
+        <app-game-control (counterChanged)="onAddNumber($event)" (counterCleared)="onClearNumbers()" [timeout]="500"></app-game-control>
       </div>
     </div>
   </div>

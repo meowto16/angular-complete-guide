@@ -1,4 +1,4 @@
-import { EventEmitter, Output } from '@angular/core'
+import { EventEmitter, Input, Output } from '@angular/core'
 import { Component, OnDestroy, OnInit } from '@angular/core'
 
 @Component({
@@ -10,6 +10,7 @@ export class GameControlComponent implements OnInit, OnDestroy {
   isGameStarted: boolean = false;
   currentCounter: number = 0;
   interval = setInterval(() => {}, 1000);
+  @Input() timeout: number = 1000;
   @Output() counterChanged = new EventEmitter<number>();
   @Output() counterCleared = new EventEmitter();
 
@@ -23,7 +24,7 @@ export class GameControlComponent implements OnInit, OnDestroy {
     this.interval = setInterval(() => {
       this.currentCounter += 1;
       this.counterChanged.emit(this.currentCounter);
-    }, 1000);
+    }, this.timeout);
   }
 
   stopGame() {
