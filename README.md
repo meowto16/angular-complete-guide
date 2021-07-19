@@ -96,3 +96,5 @@
   - [082. Получаем доступ к ng-content с @ContentChild](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/082.%20Getting%20Access%20to%20ng-content%20with%20@ContentChild)
   - [083. Резюме. Погружение в компоненты и связывание данных](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/083.%20Wrap%20Up)
   - [084. Практика. Погружение в компоненты и связывание данных](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/084.%20Practicing%20Property%20&%20Event%20Binding%20and%20View%20Encapsulation)
+- [06. Курсовой проект - компоненты и связывание данных](./docs/06.%20Course%20Project%20-%20Components%20&%20Databindings)
+  - [085. Введение](./docs/06.%20Course%20Project%20-%20Components%20&%20Databindings/085.%20Introduction)
