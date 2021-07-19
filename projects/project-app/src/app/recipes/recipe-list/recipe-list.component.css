@@ -1,0 +1,7 @@
+.recipe__item {
+  margin-bottom: 16px;
+}
+
+.recipe__item:last-child {
+  margin-bottom: 0;
+}
