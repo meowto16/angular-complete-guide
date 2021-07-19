@@ -98,3 +98,4 @@
   - [084. Практика. Погружение в компоненты и связывание данных](./docs/05.%20Components%20&%20Databinding%20Deep%20Dive/084.%20Practicing%20Property%20&%20Event%20Binding%20and%20View%20Encapsulation)
 - [06. Курсовой проект - компоненты и связывание данных](./docs/06.%20Course%20Project%20-%20Components%20&%20Databindings)
   - [085. Введение](./docs/06.%20Course%20Project%20-%20Components%20&%20Databindings/085.%20Introduction)
+  - [086. Добавляем навигацию с привязкой событий и ngIf](./docs/06.%20Course%20Project%20-%20Components%20&%20Databindings/086.%20Adding%20Navigation%20with%20Event%20Binding%20and%20ngIf)
