@@ -102,3 +102,4 @@
   - [087. Пробрасываем данные рецепта при помощи связки свойств](./docs/06.%20Course%20Project%20-%20Components%20&%20Databindings/087.%20Passing%20Recipe%20Data%20with%20Property%20Binding)
   - [088. Пробрасываем данные рецепта при помощи связки свойств (комбинируем)](./docs/06.%20Course%20Project%20-%20Components%20&%20Databindings/088.%20Passing%20Data%20with%20Event%20and%20Property%20Binding%20(Combined))
   - [089. Убедитесь, что у вас подключен модуль FormsModule](./docs/06.%20Course%20Project%20-%20Components%20&%20Databindings/089.%20Make%20sure%20you%20have%20FormsModule%20added)
+  - [090. Позволяем пользователям добавлять ингридиенты в список покупок](./docs/06.%20Course%20Project%20-%20Components%20&%20Databindings/090.%20Allowing%20the%20User%20to%20Add%20Ingridients%20Shopping%20List)
