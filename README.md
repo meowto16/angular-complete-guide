@@ -105,3 +105,4 @@
   - [090. Позволяем пользователям добавлять ингридиенты в список покупок](./docs/06.%20Course%20Project%20-%20Components%20&%20Databindings/090.%20Allowing%20the%20User%20to%20Add%20Ingridients%20Shopping%20List)
 - [07. Директивы. Глубокое погружение](./docs/07.%20Directives%20Deep%20Dive)
   - [091. Введение](./docs/07.%20Directives%20Deep%20Dive/091.%20Module%20Introduction)
+  - [092. ngFor и ngIf резюме](./docs/07.%20Directives%20Deep%20Dive/092.%20ngFor%20and%20ngIf%20Recap)
