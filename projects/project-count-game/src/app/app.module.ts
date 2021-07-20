@@ -7,6 +7,7 @@ import { AppComponent } from './app.component';
 import { GameControlComponent } from './game-control/game-control.component';
 import { EvenComponent } from './even/even.component';
 import { OddComponent } from './odd/odd.component';
+import { BetterHighlightDirective } from './better-highlight/better-highlight.directive';
 
 @NgModule({
   declarations: [
@@ -14,6 +15,7 @@ import { OddComponent } from './odd/odd.component';
     GameControlComponent,
     EvenComponent,
     OddComponent,
+    BetterHighlightDirective,
   ],
   imports: [
     BrowserModule,
