@@ -106,3 +106,4 @@
 - [07. Директивы. Глубокое погружение](./docs/07.%20Directives%20Deep%20Dive)
   - [091. Введение](./docs/07.%20Directives%20Deep%20Dive/091.%20Module%20Introduction)
   - [092. ngFor и ngIf резюме](./docs/07.%20Directives%20Deep%20Dive/092.%20ngFor%20and%20ngIf%20Recap)
+  - [093. ngClass и ngStyle резюме](./docs/07.%20Directives%20Deep%20Dive/093.%20ngClass%20and%20ngStyle%20Recap)
