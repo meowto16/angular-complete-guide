@@ -116,3 +116,6 @@
   - [100. Что происходит под капотом структурных директив](./docs/07.%20Directives%20Deep%20Dive/100.%20What%20Happens%20behind%20the%20Scenes%20on%20Structural%20Directives)
   - [101. Создаем свою структурную директиву](./docs/07.%20Directives%20Deep%20Dive/101.%20Building%20a%20Structural%20Directive)
   - [102. Рассматриваем ngSwitch](./docs/07.%20Directives%20Deep%20Dive/102.%20Understanding%20ngSwitch)
+- [08. Курсовой проект - директивы](./docs/08.%20Course%20Project%20-%20Directives)
+  - [103. Создаем и используем Dropdown директиву](./docs/08.%20Course%20Project%20-%20Directives/103.%20Building%20and%20Using%20a%20Dropdown%20Directive)
+  - [104. Закрываем Dropdown отовсюду](./docs/08.%20Course%20Project%20-%20Directives/104.%20Closing%20the%20Dropdown%20from%20Anywhere)
