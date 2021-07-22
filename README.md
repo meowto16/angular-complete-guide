@@ -118,3 +118,4 @@
   - [102. Рассматриваем ngSwitch](./docs/07.%20Directives%20Deep%20Dive/102.%20Understanding%20ngSwitch)
 - [08. Курсовой проект - директивы](./docs/08.%20Course%20Project%20-%20Directives)
   - [103. Создаем и используем Dropdown директиву](./docs/08.%20Course%20Project%20-%20Directives/103.%20Building%20and%20Using%20a%20Dropdown%20Directive)
+  - [104. Закрываем Dropdown отовсюду](./docs/08.%20Course%20Project%20-%20Directives/104.%20Closing%20the%20Dropdown%20from%20Anywhere)
