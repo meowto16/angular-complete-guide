@@ -8,3 +8,4 @@
 - [096. Еще о Renderer](./096.%20More%20about%20the%20Renderer)
 - [097. Используем HostListener чтобы слушать и размещать события](./097.%20Using%20HostListener%20to%20Listen%20to%20Host%20Events)
 - [098. Используем HostBinding чтобы привязываться к свойствам элемента](./098.%20Using%20HostBinding%20to%20Bind%20to%20Host%20Properties)
+- [099. Привязываемся к свойствам директивам](./099.%20Binding%20to%20Directive%20Properties)
