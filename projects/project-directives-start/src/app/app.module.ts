@@ -4,18 +4,16 @@ import { FormsModule } from '@angular/forms';
 
 
 import { AppComponent } from './app.component';
-import { GameControlComponent } from './game-control/game-control.component';
-import { EvenComponent } from './even/even.component';
-import { OddComponent } from './odd/odd.component';
+import { BasicHighlightDirective } from './basic-highlight/basic-highlight.directive';
 import { BetterHighlightDirective } from './better-highlight/better-highlight.directive';
+import { UnlessDirective } from './unless.directive'
 
 @NgModule({
   declarations: [
     AppComponent,
-    GameControlComponent,
-    EvenComponent,
-    OddComponent,
+    BasicHighlightDirective,
     BetterHighlightDirective,
+    UnlessDirective,
   ],
   imports: [
     BrowserModule,
