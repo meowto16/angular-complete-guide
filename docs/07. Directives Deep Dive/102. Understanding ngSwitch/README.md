@@ -1,0 +1,12 @@
+# Рассматриваем ngSwitch
+
+Вот такой незамысловатый синтаксис:
+
+```angular2html
+<div [ngSwitch]="value">
+<p *ngSwitchCase="5">Value is 5</p>
+<p *ngSwitchCase="10">Value is 10</p>
+<p *ngSwitchCase="100">Value is 100</p>
+<p *ngSwitchDefault>Value is Default</p>
+</div>
+```
