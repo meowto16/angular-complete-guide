@@ -119,3 +119,6 @@
 - [08. Курсовой проект - директивы](./docs/08.%20Course%20Project%20-%20Directives)
   - [103. Создаем и используем Dropdown директиву](./docs/08.%20Course%20Project%20-%20Directives/103.%20Building%20and%20Using%20a%20Dropdown%20Directive)
   - [104. Закрываем Dropdown отовсюду](./docs/08.%20Course%20Project%20-%20Directives/104.%20Closing%20the%20Dropdown%20from%20Anywhere)
+- [09. Используем сервисы и внедрение зависимостей](./docs/09.%20Using%20Services%20&%20Dependency%20Injection)
+  - [105. Введение в модуль](./docs/09.%20Using%20Services%20&%20Dependency%20Injection/105.%20Module%20Introduction)
+  - [106. Зачем вам вообще могут понадобиться сервисы](./docs/09.%20Using%20Services%20&%20Dependency%20Injection/106.%20Why%20would%20you%20need%20services)
