@@ -124,3 +124,4 @@
   - [106. Зачем вам вообще могут понадобиться сервисы](./docs/09.%20Using%20Services%20&%20Dependency%20Injection/106.%20Why%20would%20you%20need%20services)
   - [107. Создаем сервис логирования](./docs/09.%20Using%20Services%20&%20Dependency%20Injection/107.%20Creating%20a%20Logging%20Service)
   - [108. Инжектим Logging Service в компоненты](./docs/09.%20Using%20Services%20&%20Dependency%20Injection/108.%20Injecting%20the%20Logging%20Service%20into%20Components)
+  - [109. Создаем Дата сервис](./docs/09.%20Using%20Services%20&%20Dependency%20Injection/109.%20Creating%20a%20Data%20Service)
