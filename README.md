@@ -129,3 +129,4 @@
   - [111. Сколько вообще инстансов сервиса должно быть?](./docs/09.%20Using%20Services%20&%20Dependency%20Injection/111.%20How%20many%20Instances%20of%20Service%20Should%20It%20be)
   - [112. Инжектим одни сервисы в другие](./docs/09.%20Using%20Services%20&%20Dependency%20Injection/112.%20Injecting%20Services%20into%20Services)
   - [113. Используем сервисы для коммуникации компонентов](./docs/09.%20Using%20Services%20&%20Dependency%20Injection/113.%20Using%20Services%20for%20Cross-Component%20Communication)
+  - [114. Сервисы в Angular 6+](./docs/09.%20Using%20Services%20&%20Dependency%20Injection/114.%20Services%20in%20Angular%206+)
