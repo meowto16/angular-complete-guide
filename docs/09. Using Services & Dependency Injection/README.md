@@ -8,3 +8,4 @@
 - [110. Разбираемся с иерархичным инжектором](./110.%20Understanding%20the%20Hierarchical%20Injector)
 - [111. Сколько вообще инстансов сервиса должно быть?](./111.%20How%20many%20Instances%20of%20Service%20Should%20It%20be)
 - [112. Инжектим одни сервисы в другие](./112.%20Injecting%20Services%20into%20Services)
+- [113. Используем сервисы для коммуникации компонентов](./113.%20Using%20Services%20for%20Cross-Component%20Communication)
