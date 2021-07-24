@@ -6,3 +6,4 @@
 - [108. Инжектим Logging Service в компоненты](./108.%20Injecting%20the%20Logging%20Service%20into%20Components)
 - [109. Создаем Дата сервис](./109.%20Creating%20a%20Data%20Service)
 - [110. Разбираемся с иерархичным инжектором](./110.%20Understanding%20the%20Hierarchical%20Injector)
+- [111. Сколько вообще инстансов сервиса должно быть?](./111.%20How%20many%20Instances%20of%20Service%20Should%20It%20be)
