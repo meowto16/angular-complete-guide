@@ -130,3 +130,4 @@
   - [112. Инжектим одни сервисы в другие](./docs/09.%20Using%20Services%20&%20Dependency%20Injection/112.%20Injecting%20Services%20into%20Services)
   - [113. Используем сервисы для коммуникации компонентов](./docs/09.%20Using%20Services%20&%20Dependency%20Injection/113.%20Using%20Services%20for%20Cross-Component%20Communication)
   - [114. Сервисы в Angular 6+](./docs/09.%20Using%20Services%20&%20Dependency%20Injection/114.%20Services%20in%20Angular%206+)
+  - [115. Сервисы. Практика](./docs/09.%20Using%20Services%20&%20Dependency%20Injection/115.%20Practicing%20Services)
