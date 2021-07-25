@@ -135,3 +135,4 @@
   - [116. Введение в модуль](./docs/10.%20Course%20Project%20-%20Services%20and%20Dependency%20Injection/116.%20Introduction)
   - [117. Настраиваем сервисы](./docs/10.%20Course%20Project%20-%20Services%20and%20Dependency%20Injection/117.%20Setting%20up%20the%20Services)
   - [118. Управляем рецептами в Recipe сервисе](./docs/10.%20Course%20Project%20-%20Services%20and%20Dependency%20Injection/118.%20Managing%20Recipes%20in%20a%20Recipe%20Service)
+  - [119. Используем сервис для коммуникации компонентов](./docs/10.%20Course%20Project%20-%20Services%20and%20Dependency%20Injection/119.%20Using%20a%20Service%20for%20Cross-Component%20Communication)
