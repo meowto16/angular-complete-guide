@@ -139,3 +139,4 @@
   - [120. Добавляем Shopping List сервис](./docs/10.%20Course%20Project%20-%20Services%20and%20Dependency%20Injection/120.%20Adding%20the%20Shopping%20List%20Service)
   - [121. Используем сервисы для проброса данных из A в B](./docs/10.%20Course%20Project%20-%20Services%20and%20Dependency%20Injection/121.%20Using%20Services%20for%20Pushing%20Data%20from%20A%20to%20B)
   - [122. Добавляем ингредиенты в рецепты](./docs/10.%20Course%20Project%20-%20Services%20and%20Dependency%20Injection/122.%20Adding%20Ingredients%20to%20Recipes)
+  - [123. Пробрасываем ингредиенты из рецептов в Shopping List](./docs/10.%20Course%20Project%20-%20Services%20and%20Dependency%20Injection/123.%20Passing%20Ingredients%20from%20Recipes%20to%20the%20Shopping%20List)
