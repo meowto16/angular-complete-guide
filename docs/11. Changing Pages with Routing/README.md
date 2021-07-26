@@ -5,3 +5,4 @@
 - [126. Разбираемся с проектом-примером](./126.%20Understanding%20the%20Example%20Project)
 - [127. Настраиваем и загружаем роуты](./127.%20Setting%20up%20and%20Loading%20Routes)
 - [128. Навигация при помощи ссылок роутера](./128.%20Navigating%20with%20Router%20Links)
+- [129. Разбираемся с Navigation Paths](./129.%20Understanding%20Navigation%20Paths)
