@@ -142,3 +142,4 @@
   - [123. Пробрасываем ингредиенты из рецептов в Shopping List](./docs/10.%20Course%20Project%20-%20Services%20and%20Dependency%20Injection/123.%20Passing%20Ingredients%20from%20Recipes%20to%20the%20Shopping%20List)
 - [11. Меняем страницы при помощи роутинга](./docs/11.%20Changing%20Pages%20with%20Routing)
   - [124. Введение в модуль](./docs/11.%20Changing%20Pages%20with%20Routing/124.%20Module%20Introduction)
+  - [125. Зачем нам нужен роутер](./docs/11.%20Changing%20Pages%20with%20Routing/125.%20Why%20do%20we%20need%20a%20Router)
