@@ -153,3 +153,4 @@
   - [133. Передаем параметры в роуты](./docs/11.%20Changing%20Pages%20with%20Routing/133.%20Passing%20Parameters%20to%20Routes)
   - [134. Забираем параметры из роута](./docs/11.%20Changing%20Pages%20with%20Routing/134.%20Fetching%20Route%20Parameters)
   - [135. Забирает параметры роута реактивно](./docs/11.%20Changing%20Pages%20with%20Routing/135.%20Fetching%20Route%20Parameters%20Reactively)
+  - [136. Важная вещь по поводу Route Observables](./docs/11.%20Changing%20Pages%20with%20Routing/136.%20An%20Important%20Note%20about%20Route%20Observables)

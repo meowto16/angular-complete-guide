@@ -12,3 +12,4 @@
 - [133. Передаем параметры в роуты](./133.%20Passing%20Parameters%20to%20Routes)
 - [134. Забираем параметры из роута](./134.%20Fetching%20Route%20Parameters)
 - [135. Забирает параметры роута реактивно](./135.%20Fetching%20Route%20Parameters%20Reactively)
+- [136. Важная вещь по поводу Route Observables](./136.%20An%20Important%20Note%20about%20Route%20Observables)
