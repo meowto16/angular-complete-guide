@@ -1,3 +1,12 @@
+# Навигация при помощи ссылок роутера
+
+В Angular для этого имеется директива `routerLink`, где мы просто задаем href куда нужно перенаправить при помощи
+роутера.
+
+Также есть полезные директивы `routerLinkActive` и `routerLinkActiveOptions` которые позволяют добавить класс элементу,
+если он сейчас является активной страницей.
+
+```angular2html
 <div class="container">
   <div class="row">
     <div class="col-xs-12 col-sm-10 col-md-8 col-sm-offset-1 col-md-offset-2">
@@ -20,3 +29,4 @@
     </div>
   </div>
 </div>
+```

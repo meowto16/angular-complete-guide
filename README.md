@@ -145,3 +145,4 @@
   - [125. Зачем нам нужен роутер](./docs/11.%20Changing%20Pages%20with%20Routing/125.%20Why%20do%20we%20need%20a%20Router)
   - [126. Разбираемся с проектом-примером](./docs/11.%20Changing%20Pages%20with%20Routing/126.%20Understanding%20the%20Example%20Project)
   - [127. Настраиваем и загружаем роуты](./docs/11.%20Changing%20Pages%20with%20Routing/127.%20Setting%20up%20and%20Loading%20Routes)
+  - [128. Навигация при помощи ссылок роутера](./docs/11.%20Changing%20Pages%20with%20Routing/128.%20Navigating%20with%20Router%20Links)
