@@ -143,3 +143,4 @@
 - [11. Меняем страницы при помощи роутинга](./docs/11.%20Changing%20Pages%20with%20Routing)
   - [124. Введение в модуль](./docs/11.%20Changing%20Pages%20with%20Routing/124.%20Module%20Introduction)
   - [125. Зачем нам нужен роутер](./docs/11.%20Changing%20Pages%20with%20Routing/125.%20Why%20do%20we%20need%20a%20Router)
+  - [126. Разбираемся с проектом-примером](./docs/11.%20Changing%20Pages%20with%20Routing/126.%20Understanding%20the%20Example%20Project)
