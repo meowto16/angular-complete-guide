@@ -7,3 +7,4 @@
 - [128. Навигация при помощи ссылок роутера](./128.%20Navigating%20with%20Router%20Links)
 - [129. Разбираемся с Navigation Paths](./129.%20Understanding%20Navigation%20Paths)
 - [130. Стилизуем активные ссылки](./130.%20Styling%20Active%20Router%20Links)
+- [131. Перенаправляем программно](./131.%20Navigating%20Programmatically)
