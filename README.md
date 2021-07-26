@@ -151,3 +151,4 @@
   - [131. Перенаправляем программно](./docs/11.%20Changing%20Pages%20with%20Routing/131.%20Navigating%20Programmatically)
   - [132. Используем относительные пути в программном перенаправлении](./docs/11.%20Changing%20Pages%20with%20Routing/132.%20Using%20Relative%20Paths%20in%20Programmatic%20Navigation)
   - [133. Передаем параметры в роуты](./docs/11.%20Changing%20Pages%20with%20Routing/133.%20Passing%20Parameters%20to%20Routes)
+  - [134. Забираем параметры из роута](./docs/11.%20Changing%20Pages%20with%20Routing/134.%20Fetching%20Route%20Parameters)
