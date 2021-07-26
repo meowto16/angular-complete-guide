@@ -8,3 +8,4 @@
 - [129. Разбираемся с Navigation Paths](./129.%20Understanding%20Navigation%20Paths)
 - [130. Стилизуем активные ссылки](./130.%20Styling%20Active%20Router%20Links)
 - [131. Перенаправляем программно](./131.%20Navigating%20Programmatically)
+- [132. Используем относительные пути в программном перенаправлении](./132.%20Using%20Relative%20Paths%20in%20Programmatic%20Navigation)

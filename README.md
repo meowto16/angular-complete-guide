@@ -149,3 +149,4 @@
   - [129. Разбираемся с Navigation Paths](./docs/11.%20Changing%20Pages%20with%20Routing/129.%20Understanding%20Navigation%20Paths)
   - [130. Стилизуем активные ссылки](./docs/11.%20Changing%20Pages%20with%20Routing/130.%20Styling%20Active%20Router%20Links)
   - [131. Перенаправляем программно](./docs/11.%20Changing%20Pages%20with%20Routing/131.%20Navigating%20Programmatically)
+  - [132. Используем относительные пути в программном перенаправлении](./docs/11.%20Changing%20Pages%20with%20Routing/132.%20Using%20Relative%20Paths%20in%20Programmatic%20Navigation)
