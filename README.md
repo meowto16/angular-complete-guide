@@ -147,3 +147,4 @@
   - [127. Настраиваем и загружаем роуты](./docs/11.%20Changing%20Pages%20with%20Routing/127.%20Setting%20up%20and%20Loading%20Routes)
   - [128. Навигация при помощи ссылок роутера](./docs/11.%20Changing%20Pages%20with%20Routing/128.%20Navigating%20with%20Router%20Links)
   - [129. Разбираемся с Navigation Paths](./docs/11.%20Changing%20Pages%20with%20Routing/129.%20Understanding%20Navigation%20Paths)
+  - [130. Стилизуем активные ссылки](./docs/11.%20Changing%20Pages%20with%20Routing/130.%20Styling%20Active%20Router%20Links)
