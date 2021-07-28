@@ -13,3 +13,4 @@
 - [134. Забираем параметры из роута](./134.%20Fetching%20Route%20Parameters)
 - [135. Забирает параметры роута реактивно](./135.%20Fetching%20Route%20Parameters%20Reactively)
 - [136. Важная вещь по поводу Route Observables](./136.%20An%20Important%20Note%20about%20Route%20Observables)
+- [137. Пробрасываем Query параметры и фрагменты](./137.%20Passing%20Query%20Parameters%20and%20Fragments)
