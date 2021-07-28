@@ -19,6 +19,6 @@ export class HomeComponent implements OnInit {
   async onLoadServers() {
     // complex calculation
 
-    await this.router.navigate(['servers'], { relativeTo: this.route });
+    await this.router.navigate(['servers'], { queryParams: { allowEdit: '1' }, fragment: 'loading' });
   }
 }
