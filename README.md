@@ -156,3 +156,4 @@
   - [136. Важная вещь по поводу Route Observables](./docs/11.%20Changing%20Pages%20with%20Routing/136.%20An%20Important%20Note%20about%20Route%20Observables)
   - [137. Пробрасываем Query параметры и фрагменты](./docs/11.%20Changing%20Pages%20with%20Routing/137.%20Passing%20Query%20Parameters%20and%20Fragments)
   - [138. Достаем Query параметры и фрагменты](./docs/11.%20Changing%20Pages%20with%20Routing/138.%20Retrieving%20Query%20Parameters%20and%20Fragments)
+  - [139. Практика и различные обыденные штуки](./docs/11.%20Changing%20Pages%20with%20Routing)
