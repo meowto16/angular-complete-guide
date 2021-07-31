@@ -158,3 +158,4 @@
   - [138. Достаем Query параметры и фрагменты](./docs/11.%20Changing%20Pages%20with%20Routing/138.%20Retrieving%20Query%20Parameters%20and%20Fragments)
   - [139. Практика и различные обыденные штуки](./docs/11.%20Changing%20Pages%20with%20Routing/139.%20Practicing%20and%20some%20Common%20Gotchas)
   - [140. Настраиваем дочерние роуты](./docs/11.%20Changing%20Pages%20with%20Routing/140.%20Setting%20up%20Child%20(Nested)%20Routes)
+  - [141. Используем Query параметры - практика](./docs/11.%20Changing%20Pages%20with%20Routing/141.%20Using%20Query%20Parameters%20-%20Practice)
