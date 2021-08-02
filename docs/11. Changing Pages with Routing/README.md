@@ -21,3 +21,4 @@
 - [142. Конфигурируем обработку Query параметров](./142.%20Configuring%20the%20Handling%20of%20Query%20Parameters)
 - [143. Редиректы и Wildcard роуты](./143.%20Redirecting%20and%20Wildcard%20Routes)
 - [144. Важная заметка по поводу соотнесения пути при редиректе](./144.%20Important%20Redirection%20Path%20Matching)
+- [145. Выносим конфигурацию роутов](./145.%20Outsorcing%20the%20Route%20Configuration)

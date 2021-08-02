@@ -162,3 +162,4 @@
   - [142. Конфигурируем обработку Query параметров](./docs/11.%20Changing%20Pages%20with%20Routing/142.%20Configuring%20the%20Handling%20of%20Query%20Parameters)
   - [143. Редиректы и Wildcard роуты](./docs/11.%20Changing%20Pages%20with%20Routing/143.%20Redirecting%20and%20Wildcard%20Routes)
   - [144. Важная заметка по поводу соотнесения пути при редиректе](./docs/11.%20Changing%20Pages%20with%20Routing/144.%20Important%20Redirection%20Path%20Matching)
+  - [145. Выносим конфигурацию роутов](./docs/11.%20Changing%20Pages%20with%20Routing/145.%20Outsorcing%20the%20Route%20Configuration)
