@@ -19,3 +19,7 @@
 - [140. Настраиваем дочерние роуты](./140.%20Setting%20up%20Child%20(Nested)%20Routes)
 - [141. Используем Query параметры - практика](./141.%20Using%20Query%20Parameters%20-%20Practice)
 - [142. Конфигурируем обработку Query параметров](./142.%20Configuring%20the%20Handling%20of%20Query%20Parameters)
+- [143. Редиректы и Wildcard роуты](./143.%20Redirecting%20and%20Wildcard%20Routes)
+- [144. Важная заметка по поводу соотнесения пути при редиректе](./144.%20Important%20Redirection%20Path%20Matching)
+- [145. Выносим конфигурацию роутов](./145.%20Outsorcing%20the%20Route%20Configuration)
+- [146. Введение в Guards](./146.%20An%20Introduction%20to%20Guards)
