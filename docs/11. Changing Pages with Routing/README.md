@@ -22,3 +22,4 @@
 - [143. Редиректы и Wildcard роуты](./143.%20Redirecting%20and%20Wildcard%20Routes)
 - [144. Важная заметка по поводу соотнесения пути при редиректе](./144.%20Important%20Redirection%20Path%20Matching)
 - [145. Выносим конфигурацию роутов](./145.%20Outsorcing%20the%20Route%20Configuration)
+- [146. Введение в Guards](./146.%20An%20Introduction%20to%20Guards)
